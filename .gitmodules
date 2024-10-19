@@ -9,4 +9,4 @@
 [submodule "submodules/keycloak-k8s-resources"]
 	path = submodules/keycloak-k8s-resources
 	url = https://github.com/keycloak/keycloak-k8s-resources.git
-	branch = 25.0.1
+	branch = 26.0.1
