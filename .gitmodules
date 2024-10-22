@@ -5,7 +5,7 @@
 [submodule "submodules/Kubernetes-Docs"]
 	path = submodules/Kubernetes-Docs
 	url = https://github.com/ONLYOFFICE/Kubernetes-Docs.git
-	branch = v4.1.0
+	branch = v4.3.0
 [submodule "submodules/keycloak-k8s-resources"]
 	path = submodules/keycloak-k8s-resources
 	url = https://github.com/keycloak/keycloak-k8s-resources.git
